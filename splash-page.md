@@ -1,3 +1,4 @@
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
 ---
 title: "Beckman High School Science Olympiad"
 layout: splash
@@ -16,4 +17,5 @@ feature_row:
 {% include feature_row %}
 
 {% include feature_row id="feature_row" type="left" %}
+
 
